@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "untiy&&voiceAPI.Plugins", "untiy&&voiceAPI.Plugins.csproj", "{8DFAFBDF-AE5F-760D-F92C-5EDBA2D74970}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "untiy&&voiceAPI", "untiy&&voiceAPI.csproj", "{6FCE2D56-8F61-6D5D-5AEB-44782982436C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "untiy&&voiceAPI.Editor.Plugins", "untiy&&voiceAPI.Editor.Plugins.csproj", "{75BCF319-078B-DCEF-7DDD-F52AA85C990B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DFAFBDF-AE5F-760D-F92C-5EDBA2D74970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DFAFBDF-AE5F-760D-F92C-5EDBA2D74970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DFAFBDF-AE5F-760D-F92C-5EDBA2D74970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DFAFBDF-AE5F-760D-F92C-5EDBA2D74970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FCE2D56-8F61-6D5D-5AEB-44782982436C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FCE2D56-8F61-6D5D-5AEB-44782982436C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FCE2D56-8F61-6D5D-5AEB-44782982436C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FCE2D56-8F61-6D5D-5AEB-44782982436C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75BCF319-078B-DCEF-7DDD-F52AA85C990B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75BCF319-078B-DCEF-7DDD-F52AA85C990B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75BCF319-078B-DCEF-7DDD-F52AA85C990B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75BCF319-078B-DCEF-7DDD-F52AA85C990B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
